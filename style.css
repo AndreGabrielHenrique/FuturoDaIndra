@@ -16,6 +16,10 @@ body
     background-color: white;
     color: #004254;
 }
+a
+{
+    cursor: pointer;
+}
 header, footer
 {
     background-color: #03657C;
